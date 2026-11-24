@@ -1,6 +1,8 @@
 # PTAC4 - Aula 07
 
 Aplicação React com CRUD de usuários consumindo a API pública JSONPlaceholder, com foco em organização do helper `api.js` e centralização de erros.
+Projeto utilizado para realizar as atividades da aula 09. 
+Autor: Luis Gustavo Guisone Bagi
 
 ## Descrição
 
